@@ -13,10 +13,8 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ildem96](https://github.com/ildem96),
--   [https://github.com/ildem96](https://codepen.io/your-work)
-- 
-
+- 👨‍💻 All of my projects are available at [https://github.com/ildem96](https://github.com/ildem96) or  [https://github.com/ildem96](https://codepen.io/your-work)
+   
 - 📫 How to reach me **https://www.linkedin.com/in/ildemberg-g-5282121b2/**
 
 <h3 align="left">Connect with me:</h3>
