@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ildemberg</h1>
 <h3 align="center">A passionate front-End developer from Brasil</h3>
 
-<img align ="right" width="400" alt="coding" src="<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/715157a9-e4fd-4e45-981b-91d04f387369" />
-)>
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/715157a9-e4fd-4e45-981b-91d04f387369" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ildem96&label=Profile%20views&color=0e75b6&style=flat" alt="ildem96" /> </p>
 
