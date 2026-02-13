@@ -1,9 +1,9 @@
-![MasterHead](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg)
+<!--![MasterHead](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg)-->
 ![MasterHead](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg)
 <h1 align="center">Hi 👋, I'm Ildemberg</h1>
 <h3 align="center">A passionate front-End developer from Brasil</h3>
 
-<img width="480" height="400" alt="image" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJreGdvbXhjbW0yYXAwdWw3dGZvb2VtM3ZxamNsOHAxcHRhM2c5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gi](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN3Ymd6OTc4Mm41czJpdjI4ZWx6cml4NXFueGoxdmFtM3c1dGt6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif)f" />
+<img width="480" height="300" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJreGdvbXhjbW0yYXAwdWw3dGZvb2VtM3ZxamNsOHAxcHRhM2c5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ildem96&label=Profile%20views&color=0e75b6&style=flat" alt="ildem96" /> </p>
