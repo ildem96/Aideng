@@ -5,7 +5,7 @@
 
 <img width="100" height="100" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJreGdvbXhjbW0yYXAwdWw3dGZvb2VtM3ZxamNsOHAxcHRhM2c5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/GghGKaZ8JeHJx0apQC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PersonaJourney-coding-programming-hiroshicoding-GghGKaZ8JeHJx0apQC">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/GghGKaZ8JeHJx0apQC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ildem96&label=Profile%20views&color=0e75b6&style=flat" alt="ildem96" /> </p>
