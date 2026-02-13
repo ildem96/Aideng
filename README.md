@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ildemberg</h1>
 <h3 align="center">A passionate front-End developer from Brasil</h3>
 
-<img width="100%" height="100%" style="position:absolute" frameBorder="0" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJreGdvbXhjbW0yYXAwdWw3dGZvb2VtM3ZxamNsOHAxcHRhM2c5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
+<img width="20%" height="20%" style="position:absolute" frameBorder="0" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJreGdvbXhjbW0yYXAwdWw3dGZvb2VtM3ZxamNsOHAxcHRhM2c5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
 
 
 
